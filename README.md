@@ -1,2 +1,6 @@
 # AI-Playing-Isolation
-AI playing a game of Isolation
+Program creates an AI that can play and win a game of Swap Isolation. The AI will be tested against several pre-baked AIs. 
+
+![Img1](/Img1.JPG)
+
+
