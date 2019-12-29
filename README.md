@@ -3,4 +3,7 @@ Program creates an AI that can play and win a game of Swap Isolation. The AI wil
 
 ![Img1](/Img1.JPG)
 
+# File Summary
+
+notebook.ipynb: Notebook with instructions and executable code
 
